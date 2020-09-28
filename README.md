@@ -1,0 +1,2 @@
+# miners
+location for miners
